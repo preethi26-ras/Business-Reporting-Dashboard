@@ -1,2 +1,2 @@
-# Business-Reporting-Dashboard
-Interactive reporting dashboard that consolidates business data and provides reports, visualizations, and key metrics for operational analysis and decision-making.
+# business-reporting-dashboard
+  Interactive dashboard for visualizing business data, monitoring key metrics, and generating operational reports.
